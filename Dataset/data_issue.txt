@@ -1,0 +1,3 @@
+Data in train/2014: not using tab
+Data in dev/2019: error with encoding text
+Data in test/2012: no space for define as separate sentence	

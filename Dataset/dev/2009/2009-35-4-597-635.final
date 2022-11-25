@@ -17,7 +17,6 @@ e	O
 mail	O
 responses	O
 .	O
-
 Specifically	O
 ,	O
 we	O
@@ -45,7 +44,6 @@ of	O
 the	O
 information	B
 .	O
-
 We	O
 consider	O
 two	O
@@ -74,7 +72,6 @@ sentence	B
 level	I
 )	O
 .	O
-
 Document	B
 level	I
 methods	I
@@ -93,7 +90,6 @@ address	O
 new	O
 requests	B
 .	O
-
 Sentence	B
 level	I
 methods	I
@@ -117,7 +113,6 @@ one	O
 e	O
 mail	O
 .	O
-
 Evaluation	B
 of	O
 the	O
@@ -152,7 +147,6 @@ in	O
 our	O
 corpus	B
 .	O
-
 We	O
 also	O
 investigate	O
