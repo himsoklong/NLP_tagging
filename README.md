@@ -1,5 +1,5 @@
 # NLP_tagging
-This project is about making NLP term tagging using RNN and CRF model.
+This project aims to acreate an NLP term tagger using RNN and CRF models.
 
 ## How to install
 0.  We recomend setting up a virtual environment (e.g. a conda venv [https://anaconda.org/anaconda/conda](https://anaconda.org/anaconda/conda))
@@ -11,9 +11,9 @@ git clone https://github.com/himsoklong/NLP_tagging.git
 ```sh
 pip install -r requirements.txt
 ```
-**Note**: Our experiment run by using jupyter notebook. so our code is written in ipynb file.
+**Note**: Our experiment was run using jupyter notebook, thus you can run the code in the ipynb files.
 
-3. This project in RNN model, we use pre-trained model FastText. you can see in code folder. and some external models that need to be downloaded to fully utilise it like KeyBERT and Transfomer.
+3. For the RNN model we used a pre-trained model named FastText which can be found in the Code folder.
 
 
 ## How to use
@@ -25,5 +25,6 @@ To use the virtual enviroment from Jupyter notebook run:
 pip install --user ipykernel
 python -m ipykernel install --user --name=myenv
 ```
+
 
 
