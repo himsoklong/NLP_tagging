@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## How to use
 
-Please refer to Jupyter notebook [**example_function**](example_function.ipynb) on how to use this package.
+Please refer to Jupyter notebook CRF_model or RNN_Model file in Code folder.
 
 To use the virtual enviroment from Jupyter notebook run:
 ```sh
